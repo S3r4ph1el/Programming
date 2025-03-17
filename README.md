@@ -1,1 +1,1 @@
-# CTFs, Beecrowd, Random Exercises, etc
+# CTFs, Beecrowd, Random University Exercises, etc
