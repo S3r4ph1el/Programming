@@ -1,4 +1,3 @@
-package coding;
 import java.util.Scanner;
 
 class Produto {

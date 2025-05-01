@@ -1,4 +1,3 @@
-package coding;
 import java.util.Scanner;
 
 public class l1_e3{
