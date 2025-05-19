@@ -176,7 +176,7 @@ class Chamado {
 
 }
 
-public class SistemaTaxi {
+public class l3_e1 {
 
     public static void main(String[] args) {
         
