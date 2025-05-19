@@ -179,7 +179,7 @@ public class l3_e2{
         projeto2.adicionarTarefa("Protótipo", "06/05/2025", 7, func4);
         projetos.add(projeto2);
 
-        Projeto projeto3 = new Projeto("Plataforma de E-commerce", "Finalizado", "01/04/2025", "30/04/2025", eng1);
+        Projeto projeto3 = new Projeto("Plataforma de E-commerce", "Finalizado", "01/04/2025", "30/04/2025", eng3);
         projeto3.adicionarTarefa("API de produtos", "10/04/2025", 6, func1);
         projeto3.adicionarTarefa("Testes automatizados", "15/04/2025", 5, func4);
         projetos.add(projeto3);
